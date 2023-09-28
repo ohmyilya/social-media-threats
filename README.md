@@ -1,3 +1,7 @@
+# Disclaimer
+
+This is a research project. Please exercise caution when using automation tools, as automation may go against the terms of service of the platform. Always follow platform-specific guidelines and use automation responsibly.
+
 # Social Media Threat Analysis Automation
 
 This repository provides a step-by-step guide to automate the process of monitoring and reporting concerning social media content from students in your district. This automation aims to identify behaviors such as mental health concerns, fights, cyberbullying, threats, drugs, weapons, inappropriate behavior, inappropriate in-school photos, etc., with a focus on maintaining student privacy and complying with relevant regulations.
